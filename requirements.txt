@@ -1,2 +1,5 @@
 prefect==3.4.9
 prefect-dask==0.3.6
+dask-kubernetes==2025.7.0
+jupyterhub==5.3.0
+SQLAlchemy==2.0.41
