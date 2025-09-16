@@ -3,5 +3,5 @@ prefect-dask==0.3.6
 dask-kubernetes==2025.7.0
 jupyterhub==5.3.0
 SQLAlchemy==2.0.41
-astroviper==0.0.28
+astroviper==0.0.29
 matplotlib==3.10.5
